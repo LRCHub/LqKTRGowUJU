@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Succubus",
+  "base_artist": "glamscure",
+  "createdAt": "2026-02-06T15:07:51.457227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Succubus In Rapture",
+      "artist": "Dimmu Borgir",
+      "has_synced": true,
+      "path": "select/01_A_Succubus_In_Rapture_Dimmu_Borgir.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Succubus In Rapture",
+      "artist": "Dimmu Borgir",
+      "has_synced": false,
+      "path": "select/02_A_Succubus_In_Rapture_Dimmu_Borgir.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Succubus",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/03_The_Succubus_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Succubus",
+      "artist": "Imagika",
+      "has_synced": false,
+      "path": "select/04_Succubus_Imagika.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Succubus",
+      "artist": "Massacre",
+      "has_synced": true,
+      "path": "select/05_Succubus_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Succubus",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/06_Succubus_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Succubus (Demo)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/07_Succubus_(Demo)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Succubus",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/08_Succubus_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Church of Succubus",
+      "artist": "Lordi",
+      "has_synced": true,
+      "path": "select/09_Church_of_Succubus_Lordi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Succubus In Rapture",
+      "artist": "Dimmu Borgir",
+      "has_synced": false,
+      "path": "select/10_A_Succubus_In_Rapture_Dimmu_Borgir.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Incubus Succubus",
+      "artist": "Xmal Deutschland",
+      "has_synced": false,
+      "path": "select/11_Incubus_Succubus_Xmal_Deutschland.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Succubus",
+      "artist": "Phedora",
+      "has_synced": false,
+      "path": "select/12_Succubus_Phedora.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Succubus",
+      "artist": "Craig Xen",
+      "has_synced": false,
+      "path": "select/13_Succubus_Craig_Xen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Succubus (Bonus Track)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/14_Succubus_(Bonus_Track)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Succubus Kiss",
+      "artist": "Gladenfold",
+      "has_synced": true,
+      "path": "select/15_Succubus_Kiss_Gladenfold.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SUCCUBUS",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/16_SUCCUBUS_SiM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Succubus",
+      "artist": "glamscure",
+      "has_synced": false,
+      "path": "select/pl_01_Succubus_glamscure.txt"
+    }
+  ]
+}
